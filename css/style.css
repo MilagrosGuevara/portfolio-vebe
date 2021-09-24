@@ -1948,12 +1948,12 @@ body{
 		}
 
 			.gallery__title-post9--demo{
-				font-size: 18px;
-    			margin-bottom: 12px;
+				font-size: 14px;
+    			margin-bottom: 10px;
 			}
 
 			.gallery__text-post9--demo{
-				font-size: 14px;
+				font-size: 12px;
 			}
 
 	.portfolio__menu{
@@ -1963,8 +1963,9 @@ body{
 	/*--------------------WORK--------------------*/
 
 	.body__background--project {
-    background-image: url(../images/background-work-mobile.png);
-    height: 730px;
+    	background-image: url(../images/background-work-mobile.png);
+    	background-repeat: no-repeat;
+    	height: fit-content;
     }
 
     .header__logo{
@@ -2019,7 +2020,7 @@ body{
 	}
 
 		.process__filter{
-			width: 354px;
+			width: 100%;
     		height: 60px;
     		border-radius: 9px;
 		}
@@ -2081,7 +2082,8 @@ body{
 		}
 
 			.rp__item {
-   				width: 354.4px;
+   				width: 315.2px;
+
 			}
 
 				.rp__itemA {
@@ -2089,7 +2091,7 @@ body{
 				}
 
 				.rp__img--wrapper {
-    				width: 354.4px;
+    				width: 100%;
     				height: 222px;
 				}
 
@@ -2126,7 +2128,7 @@ body{
 		}
 
 		.about__img--wrapper{
-			width: 354.4px;
+			width: 315.2px;
     		height: 247px;
 		}
 
