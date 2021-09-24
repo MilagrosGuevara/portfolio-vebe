@@ -1581,6 +1581,10 @@ body{
 			margin-top: 37px;
 		}
 
+		.portfolio__link{
+			padding: 0 20px;
+		}
+
 	.gallery-container{
 		grid-auto-rows: 165px;
 		grid-column-gap: 16px;
@@ -1910,7 +1914,7 @@ body{
 	}
 
 	.home__main{
-		padding-top: 52%;
+		padding-top: 48%;
 	}
 		.home__title{
 			font-size: 80px;
