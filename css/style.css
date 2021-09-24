@@ -1910,12 +1910,15 @@ body{
 	}
 
 	.home__main{
-		padding-top: 167px;
+		padding-top: 52%;
 	}
+		.home__title{
+			font-size: 80px;
+		}
 
 		.home__subtitle{
-			font-size: 17.4px;
-    		width: 330px;
+			font-size: 16.4px;
+    		width: auto;
 		}
 
 		.home__scroll-container{
@@ -2082,7 +2085,7 @@ body{
 		}
 
 			.rp__item {
-   				width: 315.2px;
+   				width: auto;
 
 			}
 
@@ -2128,7 +2131,7 @@ body{
 		}
 
 		.about__img--wrapper{
-			width: 315.2px;
+			width: auto;
     		height: 247px;
 		}
 
